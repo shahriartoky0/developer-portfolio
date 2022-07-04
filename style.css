@@ -57,6 +57,10 @@ h1 {
     background-position: left;
 }
 
+h2 {
+    font-size: 50px;
+}
+
 .experience-item {
     box-shadow: 10px 10px 50px yellowgreen;
     width: 40%;
@@ -65,4 +69,18 @@ h1 {
     padding: 20px;
     border-radius: 10px;
 
+
+}
+
+#full-stack-developer {
+    border-left: 10px solid blue;
+}
+
+#baby-web-developer {
+    border-left: 10px solid tomato;
+}
+
+footer {
+    text-align: center;
+    color: grey;
 }
