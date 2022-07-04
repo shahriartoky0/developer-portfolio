@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 
 }
 
@@ -32,5 +33,10 @@ section {
     background-image: linear-gradient(orange, #f8405f);
     color: white;
     font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
 
 }
