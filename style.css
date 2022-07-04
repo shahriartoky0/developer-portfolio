@@ -20,11 +20,13 @@ h1 {
 
 .half-width {
     width: 50%;
+    padding-left: 5%;
+
 }
 
 .half-width img {
     width: 80%;
-    padding-left: 5%;
+
 }
 
 .link-button {
@@ -47,4 +49,20 @@ h1 {
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience-area {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-item {
+    box-shadow: 10px 10px 50px yellowgreen;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+
 }
