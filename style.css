@@ -23,3 +23,14 @@ section {
     width: 80%;
     padding-left: 5%;
 }
+
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(orange, #f8405f);
+    color: white;
+    font-weight: 700;
+
+}
